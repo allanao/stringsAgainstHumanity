@@ -1,7 +1,5 @@
 # stringsAgainstHumanity
 
-# Cards Against Humanity
-
 ### Game Rules
 - To start the game, each player draws ten white cards.
 - The player who most recently pooped begins as the Card Czar and draws a black card. If Hugh Jackman is playing, he goes first, regardless of how recently he pooped.
